@@ -22,7 +22,7 @@ done
 ```
 
 #### Small details:
-* The `-y` overrides overwriting confirmation.
+* The `-y` overrides overwriting prompts.
 
 #### Reason:
 * My phone can't play 1080p videos properly, so I downscale it to 720p.
