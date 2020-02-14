@@ -26,7 +26,7 @@ done
 
 #### Reason:
 * My phone can't play 1080p videos properly, so I downscale it to 720p.
-* Most mobile video player apps don't support mkv (or either the file/player aren't optimized enough for them).
+* Most mobile video player apps don't support mkv (or either both the file/player aren't optimized enough).
 
 #### Cons:
 * Reduces quality, since it needs to be re-encoded for the scaling to apply.
